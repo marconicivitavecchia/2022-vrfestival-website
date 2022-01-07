@@ -31,6 +31,7 @@ body {
 div.heading {
   margin-bottom: 2em;
 }
+
 h1.heading {
   color: #fff;
   font-size: 1.15em;
@@ -140,4 +141,3 @@ nav {
   padding-bottom: 3px;
   height: 50px;
 }
-
