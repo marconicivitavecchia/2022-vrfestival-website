@@ -34,7 +34,7 @@ div.heading {
 
 h1.heading {
   color: #fff;
-  font-size: 1.15em;
+  /* font-size: 1.15em; */
   font-weight: 900;
   margin: 0 0 0.5em;
   color: #505050;
@@ -42,34 +42,34 @@ h1.heading {
 
 h2.heading {
   color: #fff;
-  font-size: 0.76em;
+  /* font-size: 0.76em; */
   font-weight: 600;
   margin: 0 0 0.5em;
   color: #7e7e7e;
 }
 @media (min-width: 450px) {
   h1.heading {
-    font-size: 3.55em;
+    /* font-size: 3.55em; */
   }
   h2.heading {
-    font-size: 2.13em;
+    /* font-size: 2.13em; */
   }
 }
 @media (min-width: 760px) {
   h1.heading {
-    font-size: 3.05em;
+    /* font-size: 3.05em; */
   }
   h2.heading {
-    font-size: 2.01em;
+    /* font-size: 2.01em; */
   }
 }
 @media (min-width: 900px) {
   h1.heading {
-    font-size: 3.25em;
+    /* font-size: 3.25em; */
     margin: 0 0 0.3em;
   }
   h2.heading {
-    font-size: 2.15em;
+    /* font-size: 2.15em; */
     margin: 0 0 0.3em;
   }
 } 
@@ -106,7 +106,7 @@ h2.heading {
 .card-title {
   margin-top:0px;
   font-weight: 700;
-  font-size: 1.65em;
+  /* font-size: 1.65em; */
 }
 .card-title a {
   color: #000;
@@ -139,7 +139,11 @@ nav {
 .navbar-brand {
   padding-top: 3px;
   padding-bottom: 3px;
-  height: 50px;
+  height: 60px;
+}
+
+.img-logo {
+  height: 54px;
 }
 
 
